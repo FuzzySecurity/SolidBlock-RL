@@ -17,10 +17,10 @@ I wanted to understand RL beyond just the theory. Building this from scratch hel
 
 ## Features
 
-🎮 **Play It Yourself**: Use arrow keys to move around
-🤖 **Watch AI Play**: Load a trained model and watch it navigate the environment
-🏋️ **Train Your Own**: Experiment with different architectures and training strategies
-🎯 **Multiple Layouts**: Try different obstacle patterns to test adaptability
+- 🎮 **Play It Yourself**: Use arrow keys to move around
+- 🤖 **Watch AI Play**: Load a trained model and watch it navigate the environment
+- 🏋️ **Train Your Own**: Experiment with different architectures and training strategies
+- 🎯 **Multiple Layouts**: Try different obstacle patterns to test adaptability
 
 ## Getting Started
 
